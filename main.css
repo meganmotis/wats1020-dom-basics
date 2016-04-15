@@ -6,6 +6,11 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+img {
+	height: 200px;
+	width: auto;
+}
+
 .fortune-cookie-saying-wrapper {
     border: 1px solid #666;
     padding: 1em;
